@@ -597,10 +597,10 @@ p {
     background-color: rgba(0, 103, 244, 0.4); }
 .light-rounded-buttons .light-rounded-two {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4; }
+  background-color: #8ca0f6;
+  border-color: #8ca0f6; }
   .light-rounded-buttons .light-rounded-two:hover {
-    color: #0067f4;
+    color: #8ca0f6;
     background-color: transparent; }
 .light-rounded-buttons .light-rounded-three {
   overflow: hidden;
@@ -2369,7 +2369,7 @@ p {
        10.SLIDER css 
 ===========================*/
 .carousel-item {
-  background-color: #0067f4;
+  background-color:  #A6B6F8;
   position: relative; }
   .carousel-item::before {
     position: absolute;
